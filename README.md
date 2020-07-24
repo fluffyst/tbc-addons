@@ -1,6 +1,15 @@
 # A repository for TBC 2.4.3 Addons
 
-**None of these addons were made or modified by me**
+**None of these addons (except DBM) were made or modified by me**
+
+### DeadlyBossMods
+Provides additional warnings sounds pop-up messages and all sorts of other things for boss Encounters particularly in Raids.
+
+Direct DL: https://github.com/fluffyst/tbc-addons/raw/zips/DBM.zip
+
+Source: https://legacy-wow.com/tbc-addons/deadly-boss-mods/
+
+---
 
 ### DPSMateTBC
 A combat analyzation tool
