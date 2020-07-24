@@ -1,0 +1,26 @@
+## Interface: 20400
+## Author: Elv, Bunny
+## Version: 1.01
+## Title: |cff00b30bE|r|cffC4C4C4lvUI|r |cff00b30bC|r|cffC4C4C4onfig|r
+## Notes: Options for ElvUI.
+## RequiredDeps: ElvUI
+## LoadOnDemand: true
+
+Libraries\Load_Libraries.xml
+locales\load_locales.xml
+core.lua
+General.lua
+actionbars.lua
+auras.lua
+bags.lua
+chat.lua
+cooldown.lua
+datatexts.lua
+filters.lua
+nameplates.lua
+skins.lua
+tooltip.lua
+unitframes.lua
+DataBars.lua
+maps.lua
+modulecontrol.lua
