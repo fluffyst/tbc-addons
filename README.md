@@ -2,6 +2,8 @@
 
 **None of these addons (except DBM) were made or modified by me**
 
+You can either download all the addons in a pack [here](https://github.com/fluffyst/tbc-addons/archive/v1.3.zip) or look below for a specific addon
+
 ### DeadlyBossMods
 Provides additional warnings sounds pop-up messages and all sorts of other things for boss Encounters particularly in Raids.
 
