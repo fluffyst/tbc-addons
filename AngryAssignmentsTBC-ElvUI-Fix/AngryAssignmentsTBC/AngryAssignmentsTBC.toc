@@ -1,0 +1,25 @@
+## Interface: 20400
+## Title: Angry Assignments TBC
+## Author: Ermad (shoddily backported to TBC by hitbutton)
+## Version: v1.0
+## SavedVariables: AngryAssign_Pages,AngryAssign_Categories,AngryAssign_State,AngryAssign_Config
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+Libs\AceAddon-3.1\AceAddon-3.1.xml
+Libs\AceEvent-3.1\AceEvent-3.1.xml
+Libs\AceTimer-3.1\AceTimer-3.1.xml
+Libs\AceBucket-3.1\AceBucket-3.1.xml
+Libs\AceHook-3.1\AceHook-3.1.xml
+Libs\AceDB-3.1\AceDB-3.1.xml
+Libs\AceDBOptions-3.1\AceDBOptions-3.1.xml
+Libs\AceLocale-3.1\AceLocale-3.1.xml
+Libs\AceConsole-3.1\AceConsole-3.1.xml
+Libs\AceGUI-3.1\AceGUI-3.1.xml
+Libs\AceConfig-3.1\AceConfig-3.1.xml
+Libs\AceComm-3.1\AceComm-3.1.xml
+Libs\AceTab-3.1\AceTab-3.1.xml
+Libs\AceSerializer-3.1\AceSerializer-3.1.xml
+
+embeds.xml
+Core.lua

@@ -1,0 +1,9 @@
+﻿## Interface: 20400
+## Title: |cff00b30bE|r|cffC4C4C4lvUI|r |cff00b30bM|r|cffC4C4C4icrobar|r |cff00b30bE|r|cffC4C4C4nhancement|r
+## Author: Darth Predator
+## Version: 1.77
+## RequiredDeps: ElvUI
+## DefaultState: Enabled
+
+Locales\Load_Locales.xml
+ElvUI_MicrobarEnhancement.lua

@@ -1,0 +1,13 @@
+﻿## Interface: 20400
+## Author: Benik
+## Version: 2.25
+## Title: |cff00b30bE|r|cffC4C4C4lvUI|r |cff00b30bL|r|cffC4C4C4ocation|r |cff00b30bP|r|cffC4C4C4lus|r
+## Notes: a plugin for ElvUI 10+, that adds location, coords, 2 Datatexts and a tooltip full of info.
+## RequiredDeps: ElvUI
+## OptionalDeps: LibTourist-3.0
+## DefaultState: Enabled
+
+Libraries\Load_Libraries.xml
+Locales\Load_Locales.xml
+ElvUI_LocPlus.lua
+Config\Load_Config.xml

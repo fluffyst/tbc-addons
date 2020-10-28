@@ -1,0 +1,9 @@
+## Interface: 20400
+## Author: Lockslap
+## Version: 1.01
+## Title: |cff00b30bE|r|cffC4C4C4lvUI|r |cff00b30bF|r|cffC4C4C4og|r |cff00b30bO|r|cffC4C4C4f|r |cff00b30bW|r|cffC4C4C4ar|r
+## Notes: Removes the fog of war from the world map.
+## RequiredDeps: ElvUI
+
+Locales\Load_Locales.xml
+ElvUI_FogofWar.lua

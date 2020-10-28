@@ -1,0 +1,12 @@
+## Interface: 20400
+## Author: Blazeflack
+## Credit: Azilroka, Benik
+## Version: 1.30
+## Title: |cff00b30bE|r|cffC4C4C4lvUI|r |cff00b30bC|r|cffC4C4C4ustom|r |cff00b30bT|r|cffC4C4C4weaks|r
+## Notes: A collection of various tweaks to ElvUI, requested by the users.
+## RequiredDeps: ElvUI
+## DefaultState: enabled
+
+Locales\Load_Locales.xml
+ElvUI_CustomTweaks.lua
+Categories\Load_Categories.xml

@@ -1,0 +1,12 @@
+﻿## Interface: 20400
+## Title: |cff00b30bE|r|cffC4C4C4lvUI|r |cff00b30bD|r|cffC4C4C4ata|r|cff00b30bT|r|cffC4C4C4ext|r |cff00b30bB|r|cffC4C4C4ars|r
+## Author: |cff9482c9Darth Predator|r
+## Version: 7.0.3.0010
+## Notes: The plugin to create and manage additional datatext panels.
+## Notes-ruRU: Плагин для создания и управления дополнительными панелями инфо-текстов.
+## RequiredDeps: ElvUI
+## DefaultState: Enabled
+
+Locales\Load_Locales.xml
+ElvUI_DataTextBars.lua
+Config\Load_Config.xml

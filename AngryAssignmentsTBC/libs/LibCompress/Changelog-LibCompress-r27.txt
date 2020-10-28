@@ -1,0 +1,20 @@
+------------------------------------------------------------------------
+r27 | nevcairiel | 2008-10-09 21:52:15 +0000 (Thu, 09 Oct 2008) | 1 line
+Changed paths:
+   M /trunk/LibCompress.lua
+
+WoWAce Post-Processing: Virtually inflate Library Revision numbers for proper upgrade path
+------------------------------------------------------------------------
+r26 | root | 2008-09-29 21:48:54 +0000 (Mon, 29 Sep 2008) | 1 line
+Changed paths:
+   A /trunk/.pkgmeta
+
+Facilitate WowAce-on-CurseForge transition
+------------------------------------------------------------------------
+r24 | root | 2008-09-29 20:58:17 +0000 (Mon, 29 Sep 2008) | 1 line
+Changed paths:
+   D /tmp/trunk/LibCompress
+   A /trunk (from /tmp/trunk/LibCompress:23)
+
+Importing old repo data under /trunk
+------------------------------------------------------------------------

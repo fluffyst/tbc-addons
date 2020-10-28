@@ -1,0 +1,9 @@
+## Interface: 20400
+## Author: Doc309
+## Version: 2.1
+## Title: |cff00b30bE|r|cffC4C4C4lvUI|r |cff00b30bB|r|cffC4C4C4ag|r |cff00b30bC|r|cffC4C4C4ontrol|r
+## Notes: ElvUI Plugin Framework.
+## RequiredDeps: ElvUI
+
+Locales\Load_Locales.xml
+ElvUI_BagControl.lua
